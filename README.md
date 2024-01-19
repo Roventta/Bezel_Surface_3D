@@ -13,4 +13,4 @@ Preview of the program:
 
 The curve mesh can be modified into one with higher resolution:
 
-![](preview/higher_reso.png)
+![](previews/higher_reso.png)
