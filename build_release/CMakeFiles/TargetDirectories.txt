@@ -1,0 +1,3 @@
+/home/anucg/Desktop/ComputerGraphics_assignments/COMP4610-HW4-20230912/HW4 Code Framework/Task2/build_release/CMakeFiles/rebuild_cache.dir
+/home/anucg/Desktop/ComputerGraphics_assignments/COMP4610-HW4-20230912/HW4 Code Framework/Task2/build_release/CMakeFiles/BezierSurface.dir
+/home/anucg/Desktop/ComputerGraphics_assignments/COMP4610-HW4-20230912/HW4 Code Framework/Task2/build_release/CMakeFiles/edit_cache.dir
